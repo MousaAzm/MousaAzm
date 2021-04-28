@@ -1,4 +1,4 @@
-                                                        Hi there 👋 , I'm Mousa Azimi                                     
+                                                      Hi there 👋 , I'm Mousa Azimi                                     
 
 <!--
 **MousaAzm/MousaAzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
