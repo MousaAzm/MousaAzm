@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<p align="center">
- <a href="#" alt="Mousa Azimi's GitHub stats"><img src="https://github-readme-stats.vercel.app/api?username=MousaAzm&theme=tokyonight" /></a>
-</p>
-
 <p align="center">
  <a href="#" alt="Top Langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MousaAzm&layout=compact&theme=tokyonight" /></a>
 </p>
