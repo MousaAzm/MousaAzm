@@ -1,4 +1,5 @@
-                                                      Hi there 👋 , I'm Mousa Azimi                                     
+<h3 align="center"> Hi there 👋 , I'm Mousa Azimi </h3>                                    
+                                                                                   
 
 <!--
 **MousaAzm/MousaAzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">
+<p align="center">
  <a href="#" alt="Top Langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MousaAzm&layout=compact&theme=tokyonight" /></a>
-</h3>
+</p>
