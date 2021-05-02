@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<h3 align="center">
  <a href="#" alt="Top Langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MousaAzm&layout=compact&theme=tokyonight" /></a>
-</p>
+</h3>
