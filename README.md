@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
- <a href="#" alt="Top Langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MousaAzm&layout=compact&theme=tokyonight" /></a>
+ <a href="#" alt="Top Langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MousaAzm&layout=compact&theme=light" /></a>
 </p>
